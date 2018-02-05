@@ -4,8 +4,8 @@ var stdin = process.openStdin();
 stdin.addListener("data", function(d) {
 
 var arr = d.toString().split(' '); 
-var arrFib 			= [0,1];
-var fibonachiNamber = Big(arr[0]);
+var arrFib 		= [0,1];
+var fibonachiNamber 	= Big(arr[0]);
 var divider 		= +arr[1];
 var counter 		= 0;
 
