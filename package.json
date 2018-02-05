@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "1≤n≤10^18 and 2≤m≤10^5 where n = fibonachi position, m = divider, finde F(n) mode m",
+  "private": true,
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": "",
+  "engines": {
+    "node": ">= 4"
+  },
+  "author": "George Ognevoj",
+  "license": "MIT",
+  "devDependencies": {
+    "big.js": "5.0.3"
+  },
+  "dependencies": {}
+}
